@@ -1,0 +1,9 @@
+admin
+login
+dashboard
+robots
+sitemap
+config
+test
+uploads
+hidden
